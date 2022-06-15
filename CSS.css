@@ -16,7 +16,7 @@ color:cadetblue;
 span {color: rgb (255, 0, 255);}
 
 body{
-	background-image: url("/fotografija1/oblaci.jpg")
+	background-image: url("oblaci.jpg")
 }
 
 a:link {
